@@ -1,0 +1,163 @@
+{"distriubutorInformation":  [
+	{
+		"companyName":"Belden",
+		"companyLogo":"assets/product_lines/belden_logo.png",
+		"companyWebsite":"https://www.beldenbrick.com/"
+	},
+	{
+		"companyName":"Endicott",
+		"companyLogo":"assets/product_lines/endicott_logo.png",
+		"companyWebsite":"https://www.endicott.com"
+	},
+	{
+		"companyName":"McAvoy",
+		"companyLogo":"assets/product_lines/macavoy_logo.png",
+		"companyWebsite":"https://www.mcavoybrick.com/"
+	},
+	{
+		"companyName":"Summitville",
+		"companyLogo":"assets/product_lines/summitville_logo.jpg",
+		"companyWebsite":"https://summitville.com/"
+	},
+	{
+		"companyName":"Tabs",
+		"companyLogo":"assets/product_lines/tabs_logo.png",
+		"companyWebsite":"https://www.tabswallsystems.com/"
+	}
+
+],
+"landingProjects":[
+	
+	{
+		"projectName":"Creekside Middle School",
+		"city":"Carmel",
+		"stateLong":"Indiana",
+		"stateShort":"IN",
+		"safeName":"creekside",
+		"heroShot":"assets/creekSide/creekSide1.jpg",
+		"manufacturer":"Endicott Clay Products"
+
+	},
+	{
+		"projectName":"Forum Credit Union",
+		"city":"Fishers",
+		"stateLong":"Indiana",
+		"stateShort":"IN",
+		"safeName":"forumCredit",
+		"heroShot":"assets/forumCredit/forumCredit1.jpg",
+		"manufacturer":"Endicott Clay Products"
+	}
+
+
+
+],
+"projectPage":[
+	{"creekSide":{
+    "manufacturer":"Endicott Clay Products",
+    "productName":"Face Brick",
+    "productType":"faceBrick",
+    "jobTitle":"creekSide",
+    "jobName":"Creekside Middle School",
+    "colors":"Golden Buff, Medium Ironspot #46",
+    "city":"Carmel",
+    "stateLong":"Indiana",
+    "stateShort":"IN",
+    "jobThumb":"assets/creekSide/creekSideThumbSquare.jpg",
+    "mainPhoto":"assets/faceBrick/creekSide/creekSide1.jpg",
+    "photoAlbum":["https://www.endicott.com/assets/faceBrick/creekSide/creekSide1.jpg","https://www.endicott.com/assets/faceBrick/creekSide/creekSide2.jpg","https://www.endicott.com/assets/faceBrick/creekSide/creekSide3.jpg","https://www.endicott.com/assets/faceBrick/creekSide/creekSide4.jpg","https://www.endicott.com/assets/faceBrick/creekSide/creekSide5.jpg"]
+  }
+},
+  {"forumCredit":{
+    "manufacturer": "Endicott Clay Products",
+    "productName":"Face Brick",
+    "productType":"faceBrick",
+    "jobTitle":"forumCredit",
+    "jobName":"Forum Credit Union",
+    "colors":"Manganese Ironspot, Sienna Ironspot",
+    "city":"Fishers",
+    "stateLong":"Indiana",
+    "stateShort":"IN",
+    "jobThumb":"assets/forumCredit/forumCreditThumbSquare.jpg",
+    "mainPhoto":"assets/faceBrick/forumCredit/forumCredit1.jpg",
+    "photoAlbum":["https://www.endicott.com/assets/faceBrick/forumCredit/forumCredit1.jpg","https://www.endicott.com/assets/faceBrick/forumCredit/forumCredit2.jpg","https://www.endicott.com/assets/faceBrick/forumCredit/forumCredit3.jpg","https://www.endicott.com/assets/faceBrick/forumCredit/forumCredit4.jpg","https://www.endicott.com/assets/faceBrick/forumCredit/forumCredit5.jpg"]
+  }
+},
+  {"threeRiversBank":{
+    "manufacturer": "Endicott Clay Products",
+    "productName":"Face Brick",
+    "productType":"faceBrick",
+    "jobTitle":"threeRiversBank",
+    "jobName":"3 Rivers Bank Branch",
+    "colors":"Medium Ironspot #46",
+    "city":"Pendleton",
+    "stateLong":"Indiana",
+    "stateShort":"IN",
+    "jobThumb":"assets/threeRiversBank/threeRiversBankBranchThumbSquare.jpg",
+    "mainPhoto":"assets/threeRiversBank/threeRiversBankBranch1.jpg",
+    "photoAlbum":["assets/threeRiversBank/threeRiversBankBranch1.jpg","assets/threeRiversBank/threeRiversBankBranch2.jpg","assets/threeRiversBank/threeRiversBankBranch3.jpg","assets/threeRiversBank/threeRiversBankBranch4.jpg"]
+  }
+},
+  {"lucasOil":{
+    "manufacturer": "Endicott Clay Products",
+    "productName":"Thin Brick",
+    "productType":"thinBrick",
+    "jobTitle":"lucasOil",
+    "jobName":"Lucas Oil Stadium",
+    "colors":"Medium Ironspot #77",
+    "size":"Modular",
+    "city":"Indianapolis",
+    "stateLong":"Indiana",
+    "stateShort":"IN",
+    "jobThumb":"assets/lucasOil/lucasOilThumbSquare.jpg",
+    "mainPhoto":"assets/lucasOil/lucasOil1.jpg",
+    "photoAlbum":["assets/lucasOil/lucasOil1.jpg","assets/lucasOil/lucasOil2.jpg","assets/lucasOil/lucasOil3.jpg","assets/lucasOil/lucasOil4.jpg","assets/lucasOil/lucasOil5.jpg","assets/lucasOil/lucasOil6.jpg","assets/lucasOil/lucasOil7.jpg"]
+  }
+},
+  {"shelbyville":{
+    "manufacturer": "Endicott Clay Products",
+    "productName":"Pavers",
+    "productType":"paver",
+    "jobTitle":"shelbyville",
+    "jobName":"Shelbyville Street Scape",
+    "colors":"Dark Ironpsot " ,
+    "size":"4\" X 8\"",
+    "city":"Shelbyville",
+    "stateLong":"Indiana",
+    "stateShort":"IN",
+    "jobThumb":"assets/Shelbyville/ShelbyvilleThumbSquare.jpg",
+    "mainPhoto":"assets/Shelbyville/Shelbyville1.jpg",
+    "photoAlbum":["assets/Shelbyville/Shelbyville1.jpg","assets/Shelbyville/Shelbyville2.jpg","assets/Shelbyville/Shelbyville3.jpg","assets/Shelbyville/Shelbyville4.jpg","assets/Shelbyville/Shelbyville5.jpg"]
+  }
+}
+],
+"contactInformation":[
+	{"billCochran":{
+    "fullName":"Bill Cochran",
+    "title":"President",
+    "address":"734 E. 169th Street",
+    "city":"Westfield",
+    "stateShort":"IN",
+    "stateLong":"Indiana",
+    "officePhone":"317*763-9799",
+    "cellPhone":"",
+    "email":"bill.cochran@premierbricksales.com"
+    }
+},
+  {"bruceLyons":{
+    "fullName":"Bruce Lyons",
+    "title":"Vice President",
+    "address":"734 E. 169th Street",
+    "city":"Westfield",
+    "stateShort":"IN",
+    "stateLong":"Indiana",
+    "officePhone":"317*763-9799",
+    "cellPhone":"",
+    "email":"bruce.lyons@premierbricksales.com"
+    }
+}
+]
+
+
+}
+
+
