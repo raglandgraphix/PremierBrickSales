@@ -35,14 +35,20 @@
     <link rel="stylesheet" type="text/css" href="css/premierNavigation.css">
      <style type="text/css">
        #main_products{
-        display: flex;
-        background-color: red;
+        margin-top: 35px;
+        padding-top: 100px;
        }
        .manufacturer{
-        height: 200px;
+        
         border: thin solid black;
-        justify-content: space-between;
-        background-color: blue;
+        box-shadow: 5px 5px 2px;
+        margin: 10px;
+       
+       
+       }
+       .manufacturer:hover{
+        background-color: lightgrey;
+       
        }
      </style>
     
@@ -82,15 +88,29 @@
     
   </div>
   <!-- This is the end of the header and Navigation -->
-  <h1>PAVERS</h1>
   <div id="main_products">
+    <h1 style="margin-left: 25px;" >PAVERS</h1>
+    <div  class="container-fluid">
+     
+      
+      <div class="row justify-content-center  ">
+        <div style="min-width: 280px;" class="col-3 manufacturer">
+          <a href="https://www.endicott.com/colors.html?products=pv_cp_product&productOut=Pavers"><img class="img-fluid" src="assets/product_lines/endicott_logo.png"></a>
+        </div>
+        <div style="min-width: 280px;" class="col-3 manufacturer">
+          <a href="https://www.beldenbrick.com/brick/pavers"><img class="img-fluid" src="assets/product_lines/belden_logo.png"></a>
+        </div>
+        <div style="min-width: 280px;" class="col-3 manufacturer ">
+          <a href="https://www.mcavoybrick.com/products/pavers"><img class="img-fluid" src="assets/product_lines/macavoy_logo.png"></a>
+        </div>
+       
+        
+       
+      </div>
+
+    </div>
     
-    <div class="manufacturer">
-      <!-- <img src="assets/product_lines/endicott_logo.png"> -->
-    </div>
-     <div class="manufacturer">
-      <!-- <img src="assets/product_lines/endicott_logo.png"> -->
-    </div>
+    
     
   </div>
 
